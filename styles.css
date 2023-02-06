@@ -1,0 +1,24 @@
+img {
+	width:300;
+	border:2px solid blue;
+  border-radius: 50%;
+}
+
+
+body {
+	background-color:gray;
+	font-family: David;
+}
+
+.marina {
+	color:red;
+}
+.bigFont {
+	font-size: 32px; 
+}
+
+#specialStyle{
+	width:20%;	
+	border:2px solid red;
+background:yellow;	
+}
